@@ -1,0 +1,6 @@
+gene,group,n_observations,n_emerged,pct_emerged,median_abs_delta,mean_abs_delta
+NS5A,drug-target positions,203,1,0.493,0.3,3.13
+NS5A,all other codons,12720,55,0.432,0.2,1.7
+NS5B,all other codons,16990,33,0.194,0.2,0.94
+both,drug-target positions,203,1,0.493,0.3,3.13
+both,all other codons,29710,88,0.296,0.2,1.27

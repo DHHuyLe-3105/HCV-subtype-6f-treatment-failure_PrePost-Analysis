@@ -1,0 +1,23 @@
+{
+  "3a": {
+    "reference_id": "D28917.1",
+    "NS5A_start_nt": 6274,
+    "NS5B_start_nt": 7630,
+    "NS5A_start_aa": 1979,
+    "NS5B_start_aa": 2431
+  },
+  "6f": {
+    "reference_id": "DQ835760.1",
+    "NS5A_start_nt": 6255,
+    "NS5B_start_nt": 7620,
+    "NS5A_start_aa": 1973,
+    "NS5B_start_aa": 2428
+  },
+  "6n": {
+    "reference_id": "DQ278894.1",
+    "NS5A_start_nt": 6262,
+    "NS5B_start_nt": 7615,
+    "NS5A_start_aa": 1974,
+    "NS5B_start_aa": 2425
+  }
+}

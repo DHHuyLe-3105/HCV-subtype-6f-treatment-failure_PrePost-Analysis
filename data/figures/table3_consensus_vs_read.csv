@@ -1,0 +1,8 @@
+position,verdict,call_class,n_calls
+NS5A-28,BASELINE_POLYMORPHISM,"real variant, pre-existing / lineage — not acquired",21
+NS5A-30,BASELINE_POLYMORPHISM,"real variant, pre-existing / lineage — not acquired",1
+NS5A-62,CONFIRMED,invalid position (not an EASL RAS site),46
+NS5A-62,PHASE_AMBIGUOUS,invalid position (not an EASL RAS site),1
+NS5A-93,CONFIRMED,genuine drug-relevant variant,13
+NS5B-282,ARTIFACT,fabricated variant (absent from reads),2
+NS5B-282,CONFIRMED,genuine drug-relevant variant,1

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: >-
+  HCV subtype 6f treatment failure - data deposit
+message: If you use these data, please cite the accompanying paper.
+type: dataset
+authors:
+  - given-names: Duong Hoang Huy
+    family-names: Le
+  - given-names: Pornjarim
+    family-names: Nilyanimit
+  - given-names: Jiratchaya
+    family-names: Puenpa
+  - given-names: Sittisak
+    family-names: Honsawek
+  - given-names: Yong
+    family-names: Poovorawan
+license: CC-BY-4.0
+keywords:
+  - hepatitis C virus
+  - genotype 6
+  - direct-acting antivirals
+  - resistance-associated substitutions
+  - deep sequencing
+  - Thailand

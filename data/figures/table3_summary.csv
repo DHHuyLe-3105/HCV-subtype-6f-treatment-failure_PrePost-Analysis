@@ -1,0 +1,5 @@
+call_class,n_calls,pct_of_calls
+invalid position (not an EASL RAS site),47,55.3
+"real variant, pre-existing / lineage — not acquired",22,25.9
+genuine drug-relevant variant,14,16.5
+fabricated variant (absent from reads),2,2.4

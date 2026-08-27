@@ -1,0 +1,14 @@
+metric,value
+samples with >=1 consensus resistance call,52/58
+samples with >=1 FABRICATED call (strict false alarm),2/58 (3.4%)
+samples with >=1 call not representing acquired resistance (broad),52/58 (89.7%)
+total consensus resistance calls,85
+  calls: invalid position (not an EASL RAS site),47 (55.3%)
+"  calls: real variant, pre-existing / lineage — not acquired",22 (25.9%)
+  calls: genuine drug-relevant variant,14 (16.5%)
+  calls: fabricated variant (absent from reads),2 (2.4%)
+calls at valid RAS positions,38
+PPV of a consensus call at a valid RAS position (genuine / all),14/38 = 36.8%
+consensus sofosbuvir (NS5B-282) calls,3
+  of which fabricated,2/3
+"  of which genuine (ST003, pre-existing)",1/3

@@ -1,0 +1,57 @@
+Sequence_ID	Patient	Time_point	Length_nt	codon_start	N_bases	N_leading_trimmed
+LK008A	LK008	virological failure	3137	3	0	4
+LK008B	LK008	pre-treatment	3135	1	0	6
+LK013A	LK013	virological failure	3135	1	0	6
+LK013B	LK013	pre-treatment	3137	3	0	4
+LK016A	LK016	virological failure	3131	3	0	10
+LK016B	LK016	pre-treatment	3137	3	22	4
+LS003A	LS003	virological failure	3137	3	0	4
+LS003B	LS003	pre-treatment	3137	3	0	4
+LS007A	LS007	virological failure	3137	3	0	4
+LS007B	LS007	pre-treatment	3137	3	0	4
+LS019A	LS019	virological failure	3125	3	0	16
+LS019B	LS019	pre-treatment	3123	1	0	18
+LS020A	LS020	virological failure	3137	3	0	4
+LS020B	LS020	pre-treatment	3137	3	0	4
+LS031A	LS031	virological failure	3135	1	1	6
+LS031B	LS031	pre-treatment	3137	3	0	4
+LS032A	LS032	virological failure	3137	3	0	4
+LS032B	LS032	pre-treatment	3137	3	0	4
+LS033A	LS033	virological failure	3137	3	0	4
+LS033B	LS033	pre-treatment	3138	1	1	3
+LS038A	LS038	virological failure	3137	3	0	4
+LS038B	LS038	pre-treatment	3137	3	0	4
+LS050A	LS050	virological failure	3135	1	0	6
+LS050B	LS050	pre-treatment	3137	3	0	4
+NP026A	NP026	virological failure	3137	3	0	4
+NP026B	NP026	pre-treatment	3137	3	0	4
+NP027A	NP027	virological failure	3122	3	18	19
+NP027B	NP027	pre-treatment	3138	1	0	3
+NP030A	NP030	virological failure	3137	3	0	4
+NP030B	NP030	pre-treatment	3140	3	0	1
+NP031A	NP031	virological failure	3141	1	0	0
+NP031B	NP031	pre-treatment	3141	1	0	0
+NP032A	NP032	virological failure	3141	1	0	0
+NP032B	NP032	pre-treatment	3137	3	0	4
+NP033A	NP033	virological failure	3137	3	0	4
+NP033B	NP033	pre-treatment	3141	1	0	0
+NP035A	NP035	virological failure	3123	1	3	18
+NP035B	NP035	pre-treatment	3123	1	39	18
+NP039A	NP039	virological failure	3137	3	0	4
+NP039B	NP039	pre-treatment	3137	3	0	4
+NP040A	NP040	virological failure	3137	3	0	4
+NP040B	NP040	pre-treatment	3137	3	0	4
+NP044A	NP044	virological failure	3123	1	36	18
+NP044B	NP044	pre-treatment	3137	3	0	4
+NP045A	NP045	virological failure	3137	3	0	4
+NP045B	NP045	pre-treatment	3137	3	0	4
+PB026A	PB026	virological failure	3137	3	2	4
+PB026B	PB026	pre-treatment	3141	1	0	0
+PB027A	PB027	virological failure	3137	3	0	4
+PB027B	PB027	pre-treatment	3123	1	0	18
+PB029A	PB029	virological failure	3122	3	0	19
+PB029B	PB029	pre-treatment	3137	3	0	4
+PB031A	PB031	virological failure	3137	3	4	4
+PB031B	PB031	pre-treatment	3123	1	111	18
+ST003A	ST003	virological failure	3137	3	0	4
+ST003B	ST003	pre-treatment	3137	3	0	4

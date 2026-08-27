@@ -1,0 +1,392 @@
+>Feature LK008A
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature LK008B
+<1	3135	gene
+			gene	NS5AB
+<1	3135	CDS
+			product	NS5AB
+			codon_start	1
+
+>Feature LK013A
+<1	3135	gene
+			gene	NS5AB
+<1	3135	CDS
+			product	NS5AB
+			codon_start	1
+
+>Feature LK013B
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature LK016A
+<1	3131	gene
+			gene	NS5AB
+<1	3131	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature LK016B
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature LS003A
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature LS003B
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature LS007A
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature LS007B
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature LS019A
+<1	3125	gene
+			gene	NS5AB
+<1	3125	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature LS019B
+<1	3123	gene
+			gene	NS5AB
+<1	3123	CDS
+			product	NS5AB
+			codon_start	1
+
+>Feature LS020A
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature LS020B
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature LS031A
+<1	3135	gene
+			gene	NS5AB
+<1	3135	CDS
+			product	NS5AB
+			codon_start	1
+
+>Feature LS031B
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature LS032A
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature LS032B
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature LS033A
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature LS033B
+<1	3138	gene
+			gene	NS5AB
+<1	3138	CDS
+			product	NS5AB
+			codon_start	1
+
+>Feature LS038A
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature LS038B
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature LS050A
+<1	3135	gene
+			gene	NS5AB
+<1	3135	CDS
+			product	NS5AB
+			codon_start	1
+
+>Feature LS050B
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature NP026A
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature NP026B
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature NP027A
+<1	3122	gene
+			gene	NS5AB
+<1	3122	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature NP027B
+<1	3138	gene
+			gene	NS5AB
+<1	3138	CDS
+			product	NS5AB
+			codon_start	1
+
+>Feature NP030A
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature NP030B
+<1	3140	gene
+			gene	NS5AB
+<1	3140	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature NP031A
+<1	3141	gene
+			gene	NS5AB
+<1	3141	CDS
+			product	NS5AB
+			codon_start	1
+
+>Feature NP031B
+<1	3141	gene
+			gene	NS5AB
+<1	3141	CDS
+			product	NS5AB
+			codon_start	1
+
+>Feature NP032A
+<1	3141	gene
+			gene	NS5AB
+<1	3141	CDS
+			product	NS5AB
+			codon_start	1
+
+>Feature NP032B
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature NP033A
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature NP033B
+<1	3141	gene
+			gene	NS5AB
+<1	3141	CDS
+			product	NS5AB
+			codon_start	1
+
+>Feature NP035A
+<1	3123	gene
+			gene	NS5AB
+<1	3123	CDS
+			product	NS5AB
+			codon_start	1
+
+>Feature NP035B
+<1	3123	gene
+			gene	NS5AB
+<1	3123	CDS
+			product	NS5AB
+			codon_start	1
+
+>Feature NP039A
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature NP039B
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature NP040A
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature NP040B
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature NP044A
+<1	3123	gene
+			gene	NS5AB
+<1	3123	CDS
+			product	NS5AB
+			codon_start	1
+
+>Feature NP044B
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature NP045A
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature NP045B
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature PB026A
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature PB026B
+<1	3141	gene
+			gene	NS5AB
+<1	3141	CDS
+			product	NS5AB
+			codon_start	1
+
+>Feature PB027A
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature PB027B
+<1	3123	gene
+			gene	NS5AB
+<1	3123	CDS
+			product	NS5AB
+			codon_start	1
+
+>Feature PB029A
+<1	3122	gene
+			gene	NS5AB
+<1	3122	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature PB029B
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature PB031A
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature PB031B
+<1	3123	gene
+			gene	NS5AB
+<1	3123	CDS
+			product	NS5AB
+			codon_start	1
+
+>Feature ST003A
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+
+>Feature ST003B
+<1	3137	gene
+			gene	NS5AB
+<1	3137	CDS
+			product	NS5AB
+			codon_start	3
+

@@ -1,0 +1,22 @@
+path	size	data_rows	md5_short
+CITATION.cff	1 KB		55cb311bcc82
+LICENSE	0 KB		2faf8ac00582
+README.md	4 KB		0bb9a84d2da0
+data/figures/A1_ras_trajectories.csv	8 KB	203	2f32943290e2
+data/figures/A2_paired_tests.csv	0 KB	7	41731be8fed4
+data/figures/A3_target_vs_background.csv	0 KB	5	718be941553d
+data/figures/A4_ras_burden.csv	1 KB	29	d7782d4b6440
+data/figures/A5_lineage_catalogue.csv	34 KB	1047	061311c26d67
+data/figures/GT6f_FigureData.xlsx	158 KB		f43ea47df593
+data/figures/TableS9_full_lineage_catalogue.csv	34 KB	1047	e9f7c10e034d
+data/figures/table3_consensus_vs_read.csv	0 KB	7	3848f3180a7c
+data/figures/table3_headline_metrics.csv	1 KB	13	957d56ae7923
+data/figures/table3_summary.csv	0 KB	4	4a4a4edf7258
+data/reference/REF_6f_6a_1a.txt	38 KB		48e9486cebc8
+data/reference/ns5ab_tree_1000bootstrap.nwk	2 KB		fd29245f9afb
+data/coverage/coverage.csv	14 KB	464	5a1b01f1993f
+data/coverage/lod_report.csv	0 KB	8	027a7dc3812e
+data/coverage/overlap_concordance.csv	585 KB	11785	128da6b8f927
+data/coverage/threshold_robustness.csv	0 KB	5	4acc3b6a3441
+data/read_level/cohort_report.csv	83 KB	1087	e4ce4145591b
+data/read_level/g2p_hcv_data.csv	37 KB	58	a4e2511eae7c
