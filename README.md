@@ -20,8 +20,8 @@ codons, and the source data behind every figure and table.
 ## What is not here
 
 Sequence read alignments are in the NCBI Sequence Read Archive under
-BioProject PRJNA________. Consensus sequences are in GenBank under accessions
-________. Analysis code is available from the corresponding author on
+BioProject PRJNA1519094. Consensus sequences are in GenBank under accessions
+PZ897562-PZ897617. Analysis code is available from the corresponding author on
 reasonable request.
 
 ## Conventions
