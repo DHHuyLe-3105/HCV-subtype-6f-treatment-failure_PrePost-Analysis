@@ -1,4 +1,4 @@
-# HCV subtype 6f treatment failure — data deposit
+# HCV subtype 6f treatment failure - data deposit
 
 Data accompanying: *Paired molecular analysis before treatment and at failure
 reveals a fixed drug-target landscape in HCV subtype 6f failing
